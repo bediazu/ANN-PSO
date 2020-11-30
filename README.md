@@ -1,4 +1,4 @@
-# TAREA SISTEMAS DISTRIBUIDOS
+# TANN + PSO
 
 Implementar una arquitectura de red neuronal + metaheuristica PSO + funcion activacion tangente hiperbolica
 
